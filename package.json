@@ -53,7 +53,7 @@
 		"rehype-highlight": "7.0.2",
 		"rehype-react": "8.0.0",
 		"remark-emoji": "5.0.1",
-		"remark-gfm": "4.0.0",
+		"remark-gfm": "4.0.1",
 		"remark-github": "12.0.0",
 		"remark-parse": "11.0.0",
 		"remark-rehype": "11.1.1",
