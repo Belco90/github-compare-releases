@@ -68,7 +68,7 @@
 		"@chakra-ui/utils": "2.0.14",
 		"@mswjs/http-middleware": "0.10.3",
 		"@octokit/openapi-types": "23.0.1",
-		"@tanstack/eslint-plugin-query": "5.66.0",
+		"@tanstack/eslint-plugin-query": "5.66.1",
 		"@testing-library/cypress": "10.0.3",
 		"@testing-library/react": "16.2.0",
 		"@types/cors": "2.8.17",
